@@ -1,2 +1,2 @@
-# syracuselambdas
-Syracuse Lambda Phi Epsilon
+# Syracuse Lambda Phi Epsilon Website
+developed by Austin Ho
